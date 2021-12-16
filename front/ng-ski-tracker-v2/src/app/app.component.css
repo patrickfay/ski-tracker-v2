@@ -1,0 +1,12 @@
+/* TODO - DELETE THESE - JUST FOR APP INIT PURPOSES */
+.test-container {
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial;
+    margin-top: 15rem;
+}
+
+.test-item {
+    font-size: 1rem;
+    font-weight: 600;
+}
